@@ -3,7 +3,7 @@
 アクティブなタブのタイトルとURLをmarkdown、pukiwiki、html形式でクリップボードにコピーします。
 
 ## 使い方
-![README_image_01](https://github.com/user-attachments/assets/4aee916d-cf31-43fb-a713-0e372dba5ff0)  
+![README_image_01](https://github.com/user-attachments/assets/d24d0619-28c3-4d66-88c1-c0fc0cec5f9d)  
 以下のようにクリップボードにコピーされます。  
 normalの場合  
 ```
