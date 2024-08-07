@@ -17,8 +17,10 @@
     ],
     "action": {
         "default_icon": {
+            "16": "icon-16.png",
             "32": "icon-32.png"
         },
+        "default_title": "Copy Title And Url",
         "default_popup": "popup.html"
     }
 }
